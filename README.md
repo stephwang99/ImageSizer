@@ -3,6 +3,7 @@ The purpose of the project is to scale object images appropriately into a backgr
 
 # Install and Run
 1. Ensure all dependencies are resolved by using the requirements.txt file
+   `pip install -r requirements.txt`
 2. Clone the repository 
    `git clone https://github.com/stephwang99/ImageSizer.git`
 3. Create the Keras model by running `python3 yolo3.py`
